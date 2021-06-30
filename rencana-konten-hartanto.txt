@@ -9,3 +9,6 @@ RENCANA KONTEN HARTANTOO
  *javascript dasar
 -github
   *belajar commit
+-belajar framework
+  *laraver
+  *codeigniter
