@@ -1,9 +1,15 @@
 RENCANA KONTEN HARTANTOO
 -html
- *html
+
 -css
  *css 3
 -javascript
+ *javascript dasar
+-github
+  *belajar commit
+-belajar framework
+  *laraver
+  *codeigniter
   *json
 -github
   *github dasar
