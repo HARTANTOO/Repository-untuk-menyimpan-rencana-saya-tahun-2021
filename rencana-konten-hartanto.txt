@@ -2,9 +2,8 @@ RENCANA KONTEN HARTANTOO
 -html
  *html
 -css
- *css 1
- *css 2
  *css 3
 -javascript
   *json
 -github
+  *github dasar
