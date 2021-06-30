@@ -4,3 +4,4 @@ Resolusi 2021
 -pindah tempat kerja menjadi Web Developer
 -one day one ayat
 -persiapan persiapan bekerja di web developer
+-memahami html css dan java script dasar
