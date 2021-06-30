@@ -1,7 +1,5 @@
 Resolusi 2021
 -fokus belajar codeigniter
 -membuat template website 1 minggu 
--pindah tempat kerja menjadi Web Developer
 -one day one ayat
--persiapan persiapan bekerja di web developer
 -memahami html css dan java script dasar
